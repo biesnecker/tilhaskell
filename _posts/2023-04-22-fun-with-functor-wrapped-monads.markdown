@@ -3,7 +3,7 @@ layout: post
 title: Fun with functor-wrapped monads
 image: fun-with-functor-wrapped-monads.jpg
 date: 2023-04-22 18:18:50 -0400
-categories: monads functors
+categories: monads, functors
 ---
 
 ## The problem
